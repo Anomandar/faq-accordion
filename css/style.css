@@ -141,10 +141,6 @@ details[open]>summary{
 
 @media only screen and (max-width: 480px){
     
-    /* body{
-        margin-left: 7rem;
-    } */
-
     .wrapper{
         display: block;
         width: 370px;
@@ -205,6 +201,11 @@ details[open]>summary{
 
     .words{
         inline-size: 16rem;
+    }
+
+    
+    details>summary{ 
+    list-style: none;
     }
     
 
