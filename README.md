@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github link](https://github.com/Bill-Adepoju/faq-accordion)
-- Live Site URL: [live site link](https://bill-adepoju.github.io/faq-accordion/)
+- Solution URL: [Github link](https://github.com/Anomandar/faq-accordion)
+- Live Site URL: [live site link](https://anomandar.github.io/faq-accordion/)
 
 ## My process
 
